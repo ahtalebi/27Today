@@ -1,0 +1,28 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+```{r}
+
+
+# Replace 'your_file.csv' with the actual path to your CSV file
+file_path <- '/home/amir/Documents/3rd_semester/WorkshopII/Burno/mtcars.csv'
+
+# Read the CSV file into a data frame
+my_data <- read.csv(file_path)
+
+
+head(my_data)
+
+
+```
+
+```{r}
+
+```
+
+
+
