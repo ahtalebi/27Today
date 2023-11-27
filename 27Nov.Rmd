@@ -12,7 +12,7 @@ output: html_notebook
 file_path <- '/home/amir/Documents/3rd_semester/WorkshopII/Burno/mtcars.csv'
 
 # Read the CSV file into a data frame
-my_data <- read.csv(file_path)
+my_data <- read.csv(file_path_1)
 
 
 head(my_data)
